@@ -58,8 +58,8 @@ I'm a passionate AI Engineer with a track record of developing innovative AI sol
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdzubayerhossain&theme=radical&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzubayerhossain&theme=radical&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patowari&theme=radical&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patowari&theme=radical&layout=compact)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer Wave" />
