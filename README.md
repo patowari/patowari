@@ -50,10 +50,11 @@ I'm a passionate AI Engineer with a track record of developing innovative AI sol
 
 ## 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzubayerpatowari@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdzubayerhossainpatowari)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdzubayerhossain)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzubayerhossainpatowari@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patowari)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patowari)
 [![Google Developer Profile](https://img.shields.io/badge/Google%20Dev-G.dev%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/mdzubayerhossainpatowari)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801841606311)
 
 ---
 
