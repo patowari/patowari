@@ -27,7 +27,8 @@ Currently serving as **Chief AI Engineer at EVU Inc.**, leading technical operat
 - **MLOps**: CI/CD pipelines, model versioning, monitoring, and scalability
 
 ---
-
+<div align="center">
+  
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -64,6 +65,7 @@ Currently serving as **Chief AI Engineer at EVU Inc.**, leading technical operat
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
+</div>
 
 ---
 
